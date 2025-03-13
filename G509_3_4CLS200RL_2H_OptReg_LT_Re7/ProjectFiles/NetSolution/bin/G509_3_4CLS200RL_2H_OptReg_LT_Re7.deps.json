@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "G509_3_4CLS200RL_2H_OptReg_LT_Re7/1.0.0": {
+        "runtime": {
+          "G509_3_4CLS200RL_2H_OptReg_LT_Re7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "G509_3_4CLS200RL_2H_OptReg_LT_Re7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
